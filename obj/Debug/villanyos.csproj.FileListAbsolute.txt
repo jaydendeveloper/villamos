@@ -1,0 +1,10 @@
+J:\12c\c#\20241001\villanyos\villanyos\bin\Debug\villanyos.exe.config
+J:\12c\c#\20241001\villanyos\villanyos\bin\Debug\villanyos.exe
+J:\12c\c#\20241001\villanyos\villanyos\bin\Debug\villanyos.pdb
+J:\12c\c#\20241001\villanyos\villanyos\obj\Debug\villanyos.csproj.AssemblyReference.cache
+J:\12c\c#\20241001\villanyos\villanyos\obj\Debug\villanyos.Form1.resources
+J:\12c\c#\20241001\villanyos\villanyos\obj\Debug\villanyos.Properties.Resources.resources
+J:\12c\c#\20241001\villanyos\villanyos\obj\Debug\villanyos.csproj.GenerateResource.cache
+J:\12c\c#\20241001\villanyos\villanyos\obj\Debug\villanyos.csproj.CoreCompileInputs.cache
+J:\12c\c#\20241001\villanyos\villanyos\obj\Debug\villanyos.exe
+J:\12c\c#\20241001\villanyos\villanyos\obj\Debug\villanyos.pdb

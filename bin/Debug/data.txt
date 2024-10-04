@@ -1,0 +1,89 @@
+4;Kecskés;1
+4;Szalámigyár;1
+4;Szabadkai út;1
+4;Vám tér;1
+4;Szivárvány kitérő;1
+4;Vitéz utca;1
+4;Dugonics tér;1
+4;Tisza Lajos krt. (Károlyi u.);1
+4;Anna-kút;1
+4;Glattfelder Gyula tér;1
+4;Szent György tér;1
+4;Brüsszeli krt.;1
+4;Kecskeméti utca;1
+4;Rózsa utca;1
+4;Deák Ferenc Gimnázium;1
+4;Budapesti krt.;1
+4;Tarján;0
+2;Európa liget;1
+2;Vértó;1
+2;Bálint Sándor utca;1
+2;Rókusi víztorony;1
+2;Szatymazi utca;2
+2;Vásárhelyi Pál út;1
+2;Damjanich utca;1
+2;Tavasz utca;1
+2;Rókusi templom;2
+2;Anna-kút;1
+2;Szénchenyi tér;1
+2;Somogyi utca;1
+2;Aradi vértanúk tere;2
+2;Bécsi krt;1
+2;Bem utca;1
+2;Szeged vá;0
+1;Szeged vasútállomás;1
+1;Galamb utca;1
+1;Bécsi körút;2
+1;Aradi vértanúk tere;1
+1;Somogyi utca;2
+1;Széchenyi tér;2
+1;Anna-kút;2
+1;Rókus templom;1
+1;Rákóczi utca;1
+1;Damjanich utca;2
+1;Vásárhelyi Pál utca;1
+1;Pulz utca;1
+1;Rókus vasútállomás;14
+1;Algyő;10
+1;Hódmezővásárhely Népkert;2
+1;Strandfürdő;2
+1;Hősök tere;2
+1;Kossuth tér;2
+1;Kálvin János tér;3
+1;Hódmezővásárhely vá;0
+3;Tarján;1
+3;Budapesti krt.;1
+3;Deák Ferenc Gimnázium; 1
+3;Rózsa utca;1
+3;Kecskeméti utca;1
+3;Brüsszeli krt.; 1
+3;Szent György tér;1
+3;Glattfelder Gyula tér;1
+3;Anna-kút;1
+3;Tisza Lajos krt.;1
+3;Dugonics tér;2
+3;Londoni krt.; 1
+3;Veresács u.;1
+3;Kálvária tér;1
+3;II. Kórház;1
+3;Vadaspark;0
+3F;Tarján;1
+3F;Budapesti krt.;1
+3F;Deák Ferenc Gimnázium; 1
+3F;Rózsa utca;1
+3F;Kecskeméti utca;1
+3F;Brüsszeli krt.; 1
+3F;Szent György tér;1
+3F;Glattfelder Gyula tér;1
+3F;Anna-kút;1
+3F;Tisza Lajos krt.;1
+3F;Dugonics tér;2
+3F;Londoni krt.; 1
+3F;Veresács u.;1
+3F;Kálvária tér;1
+3F;II. Kórház;2
+3F;Vadaspark;3
+3F;Belvárosi temető;2
+3F;Belvárosi temető 2. kapu;1
+3F;Kereskedő köz;1
+3F;Fonógyári út;0
