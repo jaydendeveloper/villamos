@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.fileNameBox = new System.Windows.Forms.TextBox();
             this.fileNameBtn = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
@@ -41,16 +40,9 @@
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // fileNameBox
-            // 
-            this.fileNameBox.Location = new System.Drawing.Point(18, 361);
-            this.fileNameBox.Name = "fileNameBox";
-            this.fileNameBox.Size = new System.Drawing.Size(100, 20);
-            this.fileNameBox.TabIndex = 0;
-            // 
             // fileNameBtn
             // 
-            this.fileNameBtn.Location = new System.Drawing.Point(124, 361);
+            this.fileNameBtn.Location = new System.Drawing.Point(12, 361);
             this.fileNameBtn.Name = "fileNameBtn";
             this.fileNameBtn.Size = new System.Drawing.Size(75, 23);
             this.fileNameBtn.TabIndex = 1;
@@ -139,7 +131,6 @@
             this.Controls.Add(this.lineLabel);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.fileNameBtn);
-            this.Controls.Add(this.fileNameBox);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
@@ -152,8 +143,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox fileNameBox;
         private System.Windows.Forms.Button fileNameBtn;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.MenuStrip menuStrip1;

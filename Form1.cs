@@ -32,21 +32,29 @@ namespace villanyos
         }
 
 
-        string fileName = "./data.txt";
+        string filePath = "./data.txt";
         public Form1()
         {
             InitializeComponent();
 
-            fileNameBox.Text = fileName;
-
             comboBox1.Visible = false;
         }
 
+        void getFilePath()
+        {
+            OpenFileDialog fileDialog = new OpenFileDialog();
+            fileDialog.Filter = "Text Files|*.txt|CSV Files|*.csv";
+            fileDialog.Multiselect = false;
 
+            if(fileDialog.ShowDialog() == DialogResult.OK)
+            {
+                filePath = fileDialog.FileName;
+            }
+        }
 
         private void fileNameBtn_Click(object sender, EventArgs e)
         {
-            fileName = fileNameBox.Text;
+            getFilePath();
 
             readData();
 
@@ -83,7 +91,7 @@ namespace villanyos
 
         void readData()
         {
-            string[] file = File.ReadAllLines(fileName);
+            string[] file = File.ReadAllLines(filePath);
 
             foreach (string line in file)
             {
@@ -122,7 +130,6 @@ namespace villanyos
 
                 comboBox1.Visible = true;
                 fileNameBtn.Visible = false;
-                fileNameBox.Visible = false;
             }
         }
 
